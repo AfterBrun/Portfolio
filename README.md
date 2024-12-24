@@ -4,7 +4,10 @@
 >
 > 게임개발을 위해 항상 노력하겠습니다!
 
+
 ## Projects
+
+
 ### 1. OpenGL Rendering Engine
 > OpenGL을 활용한 3D 렌더러 입니다
 >
@@ -16,10 +19,12 @@
 >
 > * [Project Link](https://github.com/AfterBrun/OpenGL-RenderingEngine.git)
 
+
 ## 기술스텍
-* C++(중급)
+* C, C++(중급)
 * 자료구조 및 알고리즘
 * OpenGL 활용 및 그래픽스
+
 
 ## Contact
 * rlawlsgur080@naver.com
